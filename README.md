@@ -1,2 +1,2 @@
 # DataStructures
-Implementation of all data structurs in JAVA
+Implementation of all data structures in JAVA
